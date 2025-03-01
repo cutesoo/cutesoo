@@ -1,4 +1,8 @@
-## Hi there 👋
+## Halo semua!
+
+Perkenalkan nama saya **Vivi Aisyah**. <br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vivi-aisyah-842aa620b/) ku ya.
 
 <!--
 **cutesoo/cutesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
